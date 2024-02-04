@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# REGEX Tutorial - HEX Value Matching
 
 This is a tutorial explaining how a specific regular expression (regex) functions by breaking down each part of the expression and describing what it does.
 
@@ -79,6 +79,6 @@ Myles Vaughn
 
     Myles is a manager for a large defense contractor.  He leads a small Software Development Team.  He has enrolled in the Full Stack Web Development Bootcamp in order to gain an understanding of the everyday rigors faced by a software developer.  This experienced has hel him to bond with his team through mutual understanding and appreciation for the skill of software development.
 
-    Github: [DMylesVaughn](https://github.com/DMylesVaughn)
+Github: [DMylesVaughn](https://github.com/DMylesVaughn)
 
 
